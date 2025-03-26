@@ -2,6 +2,8 @@
 
 Cursor Pool 是一个强大的 Cursor 编辑器增强工具无限续杯，提供账号池管理、远程Token服务等功能，帮助您更好地使用 Cursor 编辑器。通过智能账号管理和远程Token服务，让您的 Cursor 使用更加顺畅。
 
+![预览](./images/qrcode_for_gh_c985615b5f2b_258.jpg)
+
 ## 🚀 主要功能
 
 - **系统优化**
